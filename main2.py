@@ -2,7 +2,7 @@ import discord
 from discord.ext import tasks, commands
 import asyncio
 
-TOKEN = "MTI0MTM1Mjg5NTA5ODY1MDcyNQ.GYKGm5.qVNBF8pjqomQbhgiQI4HN5hIpSNdXbODK-TDD4"  # 🔁 ใส่โทเคนบอทคุณตรงนี้
+TOKEN = "MTI0MTM1Mjg5NTA5ODY1MDcyNQ.GGKmxl.p89M-2aXnTGfL1vlY3fJmBKcHIZZuje3aeSOQs"  # 🔁 ใส่โทเคนบอทคุณตรงนี้
 VOICE_CHANNEL_ID = 1375227595741855825
 TEXT_CHANNEL_ID = 1375767832234823740  # 🔔 ส่งข้อความแจ้งเตือนที่นี่
 
